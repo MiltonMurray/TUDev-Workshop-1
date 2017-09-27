@@ -1,0 +1,21 @@
+h1, h2 {
+	font-family: Helvetica;
+	color: #a0202c;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.2em;
+	font-weight: 1;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+p, li {
+	font-family: Times;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
